@@ -1,0 +1,66 @@
+{
+  "$schema": "https://example.org/ethical-ai-paper.schema.json",
+  "paper_id": "01_shortname",
+  "metadata": {
+    "title": "",
+    "authors": "",
+    "year": "",
+    "venue": "",
+    "link": ""
+  },
+  "summary": {
+    "goal": "",
+    "method": "",
+    "use_case_or_domain": "",
+    "deployment_context": ""
+  },
+  "evidence": {
+    "real_time_transparency": {
+      "present": false,
+      "quotes_or_pointers": [],
+      "assessor_notes": ""
+    },
+    "explainability": {
+      "present": false,
+      "quotes_or_pointers": [],
+      "assessor_notes": ""
+    },
+    "accountability": {
+      "present": false,
+      "quotes_or_pointers": [],
+      "assessor_notes": ""
+    },
+    "human_oversight": {
+      "present": false,
+      "quotes_or_pointers": [],
+      "assessor_notes": ""
+    },
+    "privacy": {
+      "present": false,
+      "quotes_or_pointers": [],
+      "assessor_notes": ""
+    },
+    "data_protection": {
+      "present": false,
+      "quotes_or_pointers": [],
+      "assessor_notes": ""
+    },
+    "continuous_ethics_monitoring": {
+      "present": false,
+      "quotes_or_pointers": [],
+      "assessor_notes": ""
+    }
+  },
+  "scoring": {
+    "score_override": {
+      "real_time_transparency": null,
+      "explainability": null,
+      "accountability": null,
+      "human_oversight": null,
+      "privacy": null,
+      "data_protection": null,
+      "continuous_ethics_monitoring": null
+    },
+    "total_score_manual_override": null
+  }
+}
